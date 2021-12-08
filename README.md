@@ -1,1 +1,1 @@
-# static-website
+# quizz-app
